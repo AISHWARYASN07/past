@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 banglore
+=======
+mysuru
+>>>>>>> f1
